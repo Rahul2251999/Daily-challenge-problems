@@ -18,7 +18,7 @@ while(pt != tt):
         elif(tt[1] > pt[1]):
             tt[1] = tt[1]-1
             path.append("D")
-            c += 1
+            c += 1   #gdyulfgyles
            
     elif(tt[1] == pt[1]):
         if(tt[0] <  pt[0]):
