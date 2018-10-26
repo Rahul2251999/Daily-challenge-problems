@@ -3,7 +3,7 @@ int main()
 {
 	int k,i;
 	scanf("%d",&k);
-	for(i=0;i<k/4;i++)
+	for(i=0;i<k/4;i++) /*igasyudgew
 	{
 		printf("aabb");
 	}
