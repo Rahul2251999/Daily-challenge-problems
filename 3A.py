@@ -24,7 +24,7 @@ while(pt != tt):
         if(tt[0] <  pt[0]):
             tt[0] = tt[0]+1
             path.append("R")
-            c += 1
+            c += 1      #jgsyfgyuseh
            
         elif(tt[0] > pt[0]):
             tt[0] = tt[0]-1
