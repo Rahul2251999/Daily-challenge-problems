@@ -15,7 +15,7 @@ else:
 	elif h==1:
 		s+='a'
 	elif h==2:
-		s+='aa'
+		s+='aa'    #shfue
 	elif h==3:
 		s+='aab'
 print(s)
